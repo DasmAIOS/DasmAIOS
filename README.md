@@ -58,7 +58,7 @@ MIT — free to use, modify, and contribute.
 
 ## 🌐 Links
 
-- [Project website](#)
-- [Whitepaper / Vision doc](#)
-- [Telegram](https://t.me/yourgroup)
-- [Contact the team](mailto:your@email.com)
+- [Project website](dasm.cc)
+- [Whitepaper / Vision doc](https://dasm.gitbook.io/dasm/)
+- [Telegram](https://t.me/dasmcc))
+- [Contact the team](mailto:info@dasm.cc)
