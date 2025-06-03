@@ -1,4 +1,4 @@
-# DASM OS — The AI-Powered OS for Autonomous Home Management
+# DASM OS is The AI-Powered OS for Autonomous Home Management
 
 **DASM OS** is an experimental, AI-integrated operating system designed for intelligent home management. It combines modular automation, crypto-native economics, and decentralized infrastructure into a unified, open ecosystem.
 
