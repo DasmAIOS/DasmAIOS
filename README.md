@@ -1,59 +1,61 @@
-# DASM OS — The AI-Powered OS for Startup Acceleration
+# DASM OS — The AI-Powered OS for Autonomous Home Management
 
-DASM is a next-generation, AI-integrated operating system designed to empower entrepreneurs and startups by combining real-time productivity tools, crypto-native economics, and decentralized infrastructure.
+**DASM OS** is an experimental, AI-integrated operating system designed for intelligent home management. It combines modular automation, crypto-native economics, and decentralized infrastructure into a unified, open ecosystem.
+
+Built for hackers, systems thinkers, and home-tech enthusiasts.
 
 ---
 
-## 🚀 Why DASM?
+## ⚡ Why DASM?
 
-Modern startup founders face:
-- Fragmented tools
-- Lack of capital
-- Overwhelming noise
+Most smart home ecosystems are:
+- Closed-source and cloud-locked  
+- Fragmented across dozens of apps/devices  
+- Built for consumers, not creators
 
-DASM offers a focused alternative: a vertically integrated ecosystem where founders can build, launch, and scale — without paying for every service upfront.
+**DASM is different** — a programmable, modular OS for home automation, powered by AI and open protocols. Build custom routines, manage resources, or launch decentralized services — all locally or on-chain.
 
 ---
 
 ## 🔧 Key Features (MVP Phase)
 
-- 🧠 Built-in AI tools (text, video, social media)
-- 📊 Token-powered startup investment model
-- 📦 Equity-for-tools model: founders get tools in exchange for 2–5% equity
-- 🌐 Integrated blockchain layer
-- 🔌 Modular OS design for performance and customization
-- 📡 Transparent token mining + funding allocation system
+- 🧠 **AI-First UX** — Natural language interface for automating home routines  
+- 🧱 **Modular Architecture** — OS components written in Rust/C++ with plugin support  
+- 🌐 **Crypto-Native Layer** — Token-based identity, access, and incentives  
+- ⚡ **Smart Contract Automations** — Manage energy usage, subscriptions, and roles  
+- 📡 **Transparent Ledger** — Decentralized tracking of usage, compute, and participation  
+- 🔌 **Local-First Mode** — Offline-capable and privacy-focused by design  
 
 ---
 
-## 🧭 Roadmap Highlights
+## 🗺 Roadmap (2025)
 
-- [x] Design system and economic architecture
-- [x] Launch GitHub & documentation
-- [ ] MVP development begins
-- [ ] First AI tools integrated
-- [ ] Public alpha release (Q4 2025)
-- [ ] Launchpad ecosystem for third-party tools and services
+- [x] Architecture + design system  
+- [x] Launch GitHub and initial docs  
+- [ ] Core OS and runtime (MVP)  
+- [ ] AI agents: LLM for command parsing + multi-agent coordination  
+- [ ] Developer SDK + module system  
+- [ ] Public alpha release (Q4 2025)  
 
 ---
 
 ## 🤝 Get Involved
 
-We’re looking for:
-- Systems architects
-- C++/Rust/Go OS developers
-- Frontend wizards (React, Tauri, or Svelte)
-- AI tool builders
-- Web3 devs & cryptoeconomists
+We’re looking for early contributors:
 
-Join us in building the future. 🌍
+- 🛠 Systems engineers (Rust, C++)  
+- 🎛 Embedded + hardware integrators  
+- 🧠 AI/agent engineers (LLMs, automation)  
+- 🌐 Web3 devs (Solidity, token design)  
+- 💡 DIYers with smart home setups  
+
+Open issues, send PRs, or start a discussion — we're building in public.
 
 ---
 
 ## 📜 License
 
-MIT — free to use, modify, and contribute.
-
+**MIT** — Free to use, modify, and contribute.
 ---
 
 ## 🌐 Links
